@@ -1,3 +1,8 @@
 theme: jekyll-theme-slate
 title: Waybeams
 description: Waybeams is the world's best tool for building digital experiences
+github:
+  owner_name: Luke Bayes
+  owner_url: http://lukebayes.com
+  repository_name waybeams/waybeams
+  repository_url: https://github.com/waybeams/waybeams
